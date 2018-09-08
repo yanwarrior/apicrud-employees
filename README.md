@@ -1,5 +1,5 @@
 # apicrud-employees
-API CRUD Employee using Express MySQL.
+API CRUD Employee using Express MySQL. This app using `passport` to authenticate user with `JWT`.
 
 ## Quick Start
 Clone this project and run the command to install the required packages.
